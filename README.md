@@ -1,0 +1,2 @@
+## Web scraping with BeautifulSoup
+In this notebook I practice using BeautifulSoup package for scraping online reviews. By doing so I also practice using Selenium Webdrive and Chromedriver to open and control a Chrome browser.   
